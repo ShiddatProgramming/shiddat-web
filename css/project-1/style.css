@@ -1,0 +1,66 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.bg{
+ 
+    height: 500px;
+    width: 700px;
+    border: 2px solid red;
+    background-image: url('https://t4.ftcdn.net/jpg/05/37/85/31/360_F_537853199_Lu3MLwQWFb3MW1NGRqBeWOWkFhaDF8Gb.jpg');
+
+    padding: 50px;
+
+
+}
+
+
+
+.white_bg{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.white_bg > h1{
+    text-align: center;
+    padding: 10px;
+}
+
+
+form{
+    /* border: 1px solid red; */
+    padding: 20px;
+}
+
+.namebox{
+    /* border: 1px solid red; */
+    margin: 10px;
+}
+
+.email_box{
+    /* border: 1px solid red; */
+    margin: 10px;
+
+}
+
+
+.msgbox{
+    /* border: 1px solid red; */
+    margin: 10px;
+
+}
+
+
+button{
+    border: 1px solid red;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(255, 0, 102), red);
+    color: white;
+
+}

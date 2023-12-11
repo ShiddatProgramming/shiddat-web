@@ -1,0 +1,51 @@
+
+
+
+h1{
+    color: rgb(64, 0, 255);
+    font: size 100px;
+    font-family: 'Nova Square', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    
+}
+
+
+h2{
+    color: rgb(137, 130, 238);
+}
+
+p{
+    color: #E3651D;
+    font-weight: normal;
+}
+
+h4{
+    color: #d2bd03;
+}
+
+
+
+
+
+/* css background */
+
+#bg{
+    /* background-color: red; */
+    color: black;
+    /* background-image: linear-gradient(red,blue,yellow); */
+    /* background-image: radial-gradient(red,blue,yellow);
+    background: rgb(2,0,36); */
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,88,1) 30%, rgba(35,255,0,1) 100%); */
+  
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/742/75/desktop-wallpaper-nature-backgrounds-for-editing-backgrounds-nature.jpg');
+
+    /* background-image: url('./imgs/demo.png'); */
+
+
+
+}
+
+
+
+

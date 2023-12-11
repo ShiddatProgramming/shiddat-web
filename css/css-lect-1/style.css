@@ -1,0 +1,53 @@
+
+/* tag selector */
+
+/* h3{
+    color: pink;
+}
+
+
+h4{
+    color: blue;
+} */
+
+
+/* h1{
+    color: blue;
+} */
+
+
+/* id selector  */
+
+#header{
+    color: red;
+    border: 1px solid red;
+}
+
+
+
+#main{
+    color: blue;
+    border: 1px solid black;
+}
+
+/* class selector */
+
+.para{
+    background-color: red;
+}
+
+.paraone{
+    color: blue;
+}
+
+
+
+/* child selectors  */
+
+.parent{
+    border: 1px solid red;
+}
+
+.parent > h5{
+    color: red;
+}

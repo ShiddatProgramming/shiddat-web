@@ -1,0 +1,245 @@
+
+
+
+✅css - lect -1 
+------------------------------
+intro : 
+syntax
+selector 
+comments 
+
+😊 INTRO - 
+CSS stands for Cascading Style Sheets
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS saves a lot of work. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files.
+
+😊syntax  :
+
+h3{
+    color: pink;
+}
+
+
+😊 selectors : 
+
+
+<!-- Simple selectors (select elements based on name, id, class) -->
+
+<h1 id="header">  html </h1>
+<h1 id="main"> css </h1>
+
+
+<p class="para paraone">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum quae architecto recusandae, modi expedita pariatur distinctio? Sapiente nemo libero incidunt eos tempora accusantium dicta fugit quibusdam? Numquam inventore optio libero!</p>
+<p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate aut, totam architecto accusamus, voluptas quasi explicabo rem temporibus, error iusto velit. Reprehenderit at facere dolores ipsa! Omnis autem quibusdam molestias.x</p>
+
+<h3 class="paraone">  classsss </h3>
+
+css: 
+
+/* 😁 id selector  */
+
+#header{
+    color: red;
+    border: 1px solid red;
+}
+
+
+
+#main{
+    color: blue;
+    border: 1px solid black;
+}
+
+/* 😁 class selector */
+
+.para{
+    background-color: red;
+}
+
+.paraone{
+    color: blue;
+}
+
+
+
+
+
+
+<div class="parent">
+
+ <h5> child selector </h5>
+
+</div>
+
+/* 😎 child selectors  */
+
+.parent{
+    border: 1px solid red;
+}
+
+.parent > h5{
+    color: red;
+}
+
+
+
+
+
+
+
+
+😊comments :
+
+ctrl + ? 
+
+
+
+
+
+
+✅ lect - 2
+
+----------------------------------------------------
+😊colors:
+colors : 
+
+
+
+    <h1>  colors </h1>
+    <h2> color 2 </h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ipsum corrupti eligendi odit? Magnam, ipsum. Esse alias voluptatem maiores exercitationem voluptas eius fugit minus natus, amet iusto quibusdam, assumenda dolorum?</p>
+
+
+
+    
+    <h4> hex </h4>
+
+
+    
+h1{
+    color: rgb(64, 0, 255);
+}
+
+h2{
+    color: rgb(137, 130, 238);
+}
+
+p{
+    color: #E3651D;
+}
+
+h4{
+    color: #d2bd03;
+}
+
+
+
+😊fonts: 
+
+google fonts use karne >>
+>>link copy karne and html madhe paste karne 
+>> font family name copy karne and css madhe paste karne 
+
+
+😊background : color - img 
+
+
+/* css background */
+
+#bg{
+    /* background-color: red; */
+    color: black;
+    /* background-image: linear-gradient(red,blue,yellow); */
+    /* background-image: radial-gradient(red,blue,yellow);
+    background: rgb(2,0,36); */
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,88,1) 30%, rgba(35,255,0,1) 100%); */
+  
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/742/75/desktop-wallpaper-nature-backgrounds-for-editing-backgrounds-nature.jpg');
+
+    /* background-image: url('./imgs/demo.png'); */
+
+
+
+}
+
+
+
+----------------------------------------------
+
+✅ lect - 3 :
+box model 
+padding
+margin
+border 
+height width : 
+
+block - inline block 
+
+-------------------------------------------------
+
+✅ project :
+using  lect - 2 , 3, 
+
+-----------------------------------------
+
+
+
+
+✅ lect - 4
+positions
+z -index
+overflow 
+
+---------------------------------------------
+l✅ ect 5 
+flex box 
+
+-----------------------
+
+✅ lect -6
+css media queries 
+
+
+-----------------------------------
+ ✅lect - 7 
+css shadow 
+trasitions effects 
+
+
+
+-------------------------
+✅ lect - 8 
+
+2d transform 
+animations 
+
+
+----------------------------------------
+✅ lect - 9
+css grid 
+
+
+---------------------------------------------------------
+✅ major projects 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
