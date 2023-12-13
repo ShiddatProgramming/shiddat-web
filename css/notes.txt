@@ -188,13 +188,36 @@ using  lect - 2 , 3,
 
 
 ✅ lect - 4
-positions
-z -index
-overflow 
+positions : 
+
+
+The position Property
+The position property specifies the type of positioning method used for an element.
+
+There are five different position values:
+
+static
+relative
+fixed
+absolute
+sticky
+
+
+
+
+
+z -index : 
+overflow :
+
+
 
 ---------------------------------------------
 l✅ ect 5 
 flex box 
+
+
+
+
 
 -----------------------
 
